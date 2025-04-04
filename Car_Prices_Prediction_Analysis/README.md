@@ -62,14 +62,9 @@ Exploring the count of various car companies available in the dataset, it is see
 
 <img src="https://github.com/Gtshivanand/Machine-Learning-Advance-Projects/blob/main/Car_Prices_Prediction_Analysis/images/Total%20Cars%20Count.png"/>
 
-We will be taking a look at a list of visualizations that can give us an understanding of the data. 
-Exploring the count of various car companies available in the dataset, it is seen that Chevrolet has the highest number of cars followed by Ford. 
-
-<img src = "https://github.com/Gtshivanand/Machine-Learning-Advance-Projects/blob/main/Car_Prices_Prediction_Analysis/images/Cars%20Sold.png"/>
-
 With the progress in years, there is an increase in the demand for cars sold. This is clearly demonstrated in the visualization. In addition, our ML models would perform well on the most recent cars as we have more data in this category. 
 
-<img src = ""/>
+<img src = "https://github.com/Gtshivanand/Machine-Learning-Advance-Projects/blob/main/Car_Prices_Prediction_Analysis/images/Cars%20Sold.png"/>
 
 Most of the cars are automatic as depicted in the plot. There are fewer manual cars compared to automatic cars. There are also a few unknown categories. 
 
